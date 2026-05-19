@@ -14,3 +14,8 @@ const nextConfig = {
 };
 
 export default nextConfig;
+
+module.exports = {
+  output: 'export',
+  images: { unoptimized: true },  // Cloudflare 不支持 Next Image 优化
+}
