@@ -1,0 +1,6 @@
+name = "oldYasbe"
+pages_build_output_dir = "out"
+
+[env.production]
+# 排除大文件
+pages_build_output_dir = "out"
