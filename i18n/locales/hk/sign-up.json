@@ -1,0 +1,12 @@
+{
+  "welcome": "建立您的免費帳戶",
+  "description": "加入我們的全球網絡，立即開始更聰明地進行交易。",
+  "namePlaceholder": "輸入您的姓名",
+  "emailPlaceholder": "輸入您的電郵",
+  "passwordPlaceholder": "建立密碼",
+  "creatingAccount": "正在建立帳戶...",
+  "signUp": "註冊",
+  "alreadyHaveAccount": "已經有帳戶？",
+  "login": "登入",
+  "name": "姓名"
+}

@@ -1,0 +1,12 @@
+{
+  "welcome": "欢迎回来",
+  "description": "登录以轻松管理您的账户和财务。",
+  "emailPlaceholder": "请输入您的电子邮箱",
+  "passwordPlaceholder": "创建密码",
+  "forgotPassword": "忘记密码",
+  "signIn": "登录",
+  "dontHaveAccount": "还没有账户？",
+  "signUp": "注册",
+  "email": "电子邮箱",
+  "password": "密码"
+}

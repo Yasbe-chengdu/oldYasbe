@@ -1,0 +1,12 @@
+{
+  "welcome": "歡迎回來",
+  "description": "登入以輕鬆管理您的帳戶和財務。",
+  "emailPlaceholder": "輸入您的電郵",
+  "passwordPlaceholder": "建立密碼",
+  "forgotPassword": "忘記密碼",
+  "signIn": "登入",
+  "dontHaveAccount": "還沒有帳戶？",
+  "signUp": "註冊",
+  "email": "電郵",
+  "password": "密碼"
+}

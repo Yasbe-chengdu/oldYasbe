@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome Back",
+  "description": "Log in to manage your account and finances easily.",
+  "emailPlaceholder": "Enter your email",
+  "passwordPlaceholder": "Create a password",
+  "forgotPassword": "Forgot password",
+  "signIn": "Sign In",
+  "dontHaveAccount": "Don’t have an account?",
+  "signUp": "Sign up",
+  "email": "Email",
+  "password": "Password"
+}

@@ -1,0 +1,3 @@
+# Ignore assets to be formatted
+/public/*
+*.geojson

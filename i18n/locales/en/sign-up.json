@@ -1,0 +1,12 @@
+{
+  "welcome": "Create Your Free Account",
+  "description": "Join our global network and start transacting smarter today.",
+  "namePlaceholder": "Enter your name",
+  "emailPlaceholder": "Enter your email",
+  "passwordPlaceholder": "Create a password",
+  "creatingAccount": "Creating Account...",
+  "signUp": "Sign up",
+  "alreadyHaveAccount": "Already have an account?",
+  "login": "Log in",
+  "name": "Name"
+}
